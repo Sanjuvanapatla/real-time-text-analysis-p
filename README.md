@@ -2,6 +2,9 @@
 
 This is a React-based web application that allows users to input text and get real-time statistics, including the count of unique words, characters (excluding spaces and punctuation), and a string replacement functionality. The application also highlights replaced words dynamically.
 
+#Project Netlify Link
+https://gleeful-parfait-b8fbcc.netlify.app/
+
 ## Features
 - **Unique Word Count**: Displays the number of unique words in the text (case-insensitive).
 - **Character Count**: Displays the number of characters in the text excluding spaces and punctuation.
