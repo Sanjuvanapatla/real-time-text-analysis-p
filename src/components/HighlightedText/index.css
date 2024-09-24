@@ -1,0 +1,19 @@
+/* HighlightedText.css */
+.highlighted-text {
+    margin-top: 20px;
+    font-size: 1rem;
+    text-align: left;
+  }
+  
+  .highlight {
+    background-color: #ffff00; /* Yellow background for highlighting */
+    font-weight: bold;
+  }
+  
+  /* Responsive media query */
+  @media (max-width: 600px) {
+    .highlighted-text {
+      font-size: 0.9rem;
+    }
+  }
+  

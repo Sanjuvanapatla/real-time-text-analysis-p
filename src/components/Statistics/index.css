@@ -1,0 +1,26 @@
+.stats {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .stats p {
+    margin: 0;
+  }
+  
+  @media (max-width: 600px) {
+    .stats {
+      flex-direction: column;
+    }
+  
+    .stats p {
+      margin-bottom: 10px;
+    }
+  }
+  .unique-p1{
+    color: cadetblue;
+  }
+  .count-p{
+    color: crimson;
+  }
