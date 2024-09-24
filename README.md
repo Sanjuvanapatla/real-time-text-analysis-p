@@ -22,7 +22,7 @@ Ensure that you have the following installed on your machine:
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/text-analysis-replacement.git
+   https://github.com/Sanjuvanapatla/real-time-text-analysis-p.git
 2.Navigate to the project directory:
 cd text-analysis-replacement
 
